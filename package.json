@@ -32,6 +32,7 @@
     "@nx/node": "16.10.0",
     "@nx/webpack": "16.10.0",
     "@nx/workspace": "16.10.0",
+    "@types/bcryptjs": "^2.4.4",
     "@types/jest": "^29.4.0",
     "@types/node": "~18.7.1",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
